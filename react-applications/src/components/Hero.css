@@ -1,0 +1,11 @@
+section{
+    padding: 20px;
+}
+.hero{
+    display: flex;
+    flex-direction: column;
+    max-width: 450px;
+}
+.hero--photo{
+    width: 450px;
+}
